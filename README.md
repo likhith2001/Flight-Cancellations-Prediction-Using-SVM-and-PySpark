@@ -105,19 +105,6 @@ The high recall indicates the model’s strong ability to detect potential cance
 
 ***
 
-## 🗂️ Project Structure
-```
-Flight-Cancellations-Prediction/
-├── data/                   # Source and processed flight data
-├── notebooks/              # Jupyter Notebooks for experiments
-├── scripts/                # Python and PySpark scripts
-├── visualizations/         # Graphs and performance metrics
-├── requirements.txt        # Dependencies
-└── README.md               # Documentation
-```
-
-***
-
 ## ⚙️ Getting Started
 ### Prerequisites
 - Python 3.12  
@@ -139,13 +126,6 @@ spark-submit scripts/train_svm_model.py
 ### View Cluster Dashboard
 Navigate to  
 `http://<master-node-ip>:8080` to monitor Spark jobs and performance.
-
-***
-
-## 📞 Contact
-**Likhith Varma Muddulur**  
-📧 [your-email@example.com](mailto:your-email@example.com)  
-🔗 [GitHub](https://github.com/<your-username>) | [LinkedIn](https://www.linkedin.com/in/<your-linkedin>/)
 
 ***
 
