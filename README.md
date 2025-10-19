@@ -36,7 +36,7 @@ The project demonstrates how **Big Data technologies** can be harnessed for scal
 
 ***
 
-## 🛠️ Tech Stack
+## Tech Stack
 - **Languages:** Python 3.12  
 - **Frameworks:** Apache Spark, Hadoop  
 - **Libraries:** PySpark, Pandas, NumPy, Matplotlib  
@@ -103,7 +103,7 @@ The high recall indicates the model’s strong ability to detect potential cance
 
 ***
 
-## ⚙️ Getting Started
+## Getting Started
 ### Prerequisites
 - Python 3.12  
 - Hadoop 3.3.6 configured cluster  
