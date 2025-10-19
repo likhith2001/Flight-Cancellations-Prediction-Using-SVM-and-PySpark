@@ -127,4 +127,4 @@ Navigate to
 
 ***
 
-⭐ **If you found this project insightful, give it a star on GitHub!**  
+⭐ **If you found this project insightful, give it a star!**  
