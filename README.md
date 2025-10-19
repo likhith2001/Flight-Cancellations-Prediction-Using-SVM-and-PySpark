@@ -9,13 +9,13 @@ Predicting flight cancellations using distributed machine learning with PySpark 
 ## 📘 Table of Contents
 - [About the Project](#-about-the-project)
 - [Features](#-features)
-- [Tech Stack](#-tech-stack)
+- [Tech Stack](#tech-stack)
 - [Dataset](#-dataset)
 - [Architecture](#-architecture)
 - [Methodology](#-methodology)
 - [Results](#-results)
 - [Future Work](#-future-work)
-- [Getting Started](#-getting-started)
+- [Getting Started](#getting-started)
 
 ***
 
